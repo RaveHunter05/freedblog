@@ -1,0 +1,25 @@
+body{
+    background-image: url(MJAkxbh.png);
+}
+
+#total{
+    position: relative;
+    
+    text-align: center;
+    
+}    
+
+#frog{
+    height: 100px;
+    
+}
+
+#total p{
+ font-weight: bold;
+    font-family: Lobster;
+    font-size: 23px;
+}
+
+h4{
+    font-family: Helvetica;
+}
